@@ -32,14 +32,11 @@ export default function App() {
           />
           <br />
           <br />
-
+          <p> Current Members Use Internet Banking Login</p>
           <input type="submit" class="submit1" value="Login" />
           <br />
           <br />
           <a href="signup.php">Not Registered ? Sign up</a>
-          <br />
-          <br />
-          <a href="fget_pass.php">Forgot Password ? </a>
           <br />
           <br />
           <a href="files/ir330_sanjaay.pdf"> Terms and Conditions </a>

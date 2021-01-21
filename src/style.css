@@ -1,3 +1,39 @@
-h1, p {
-  font-family: Lato;
+a {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+  font-size: 10px;
+}
+label {
+  color: #ffffff;
+  width: 100px;
+  display: inline-block;
+}
+body {
+  background-color: #00687f;
+}
+.submit1 {
+  background-color: #bbbb14;
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+}
+input[type="text"],
+input[type="password"] {
+  width: 15%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }
