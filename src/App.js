@@ -11,7 +11,7 @@ export default function App() {
       <br />
       <br />
       <center>
-        <img src="files/logo.jpg" class="logo" /> <br />
+        <img src="logo.jpg" class="logo" /> <br />
         <br />
         <form method="post" name="form">
           <label for="usr">Username</label>
@@ -36,10 +36,10 @@ export default function App() {
           <input type="submit" class="submit1" value="Login" />
           <br />
           <br />
-          <a href="signup.php">Not Registered ? Sign up</a>
+          <a href="">Not Registered ? Sign up</a>
           <br />
           <br />
-          <a href="files/ir330_sanjaay.pdf"> Terms and Conditions </a>
+          <a href="ir330_sanjaay.pdf"> Terms and Conditions </a>
         </form>
       </center>
     </div>
